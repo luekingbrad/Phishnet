@@ -27,7 +27,7 @@ urllib.parse
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/phishnet.git
+git clone https://github.com/luekingbrad/phishnet.git
 Navigate to the project folder:
 cd phishnet
 Install dependencies:
