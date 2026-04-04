@@ -111,9 +111,3 @@ This project was created as part of a cybersecurity scripting assignment focused
 
 License
 This project is released for educational and research purposes.
-
-If you'd like, I can also help you add three things that make GitHub repos look much more professional:
-1️⃣ Badges (Python version, license, etc.)
-2️⃣ A screenshot of the CSV output
-3️⃣ A GIF demo of the script running
-Those make projects stand out a lot when professors or employers look at them.
