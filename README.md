@@ -379,7 +379,7 @@ Potential future improvements include:
 
 ## Author
 
-**Bradley [Last Name]**
+**Bradley Lueking**
 
 Cybersecurity | AI | Security Operations | GRC
 
